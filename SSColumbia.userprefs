@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Crankshaft.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\clicktochangetext.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollisionCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OnMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\drag.cs" Line="12" Column="30" />
+      <File FileName="Assets\Scripts\Switch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hs.cs" Line="18" Column="25" />
+      <File FileName="Assets\Scripts\SwitchH.cs" Line="9" Column="69" />
+      <File FileName="Assets\Scripts\Visibible.cs" Line="8" Column="45" />
+      <File FileName="Assets\Scripts\Wt.cs" Line="32" Column="41" />
+      <File FileName="Assets\Scripts\Support.cs" Line="33" Column="40" />
+      <File FileName="Assets\Scripts\Wheel.cs" Line="19" Column="34" />
+      <File FileName="Assets\Scripts\Crankshaft.cs" Line="32" Column="41" />
+      <File FileName="Assets\Scripts\OnTop.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\Test.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
